@@ -10,13 +10,7 @@ The ToDoList is an Android application that use for daily tasks. User can create
 <li>MVC</li>
 </ul>
 
-<h1>About Me</h1>
-<ul>
-<li><a href="https://www.linkedin.com/in/aftabalam014/">LInkedIn</a></li>
-<li><a href="https://stackoverflow.com/users/11369023/aftab-alam">Stack Overflow</a></li>
-<li><a href="https://github.com/aftabalam014">GitHub</a></li>
-</ul>
-
+<h1>Screenshot</h1>
 <p float="left">
   <img src="/screenshot/1.jpeg" width="175"/>
   <img src="/screenshot/2.jpeg" width="175"/> 
@@ -24,3 +18,10 @@ The ToDoList is an Android application that use for daily tasks. User can create
   <img src="/screenshot/4.jpeg" width="175"/>
   <img src="/screenshot/5.jpeg" width="175"/>
 </p>
+
+<h1>About Me</h1>
+<ul>
+<li><a href="https://www.linkedin.com/in/aftabalam014/">LInkedIn</a></li>
+<li><a href="https://stackoverflow.com/users/11369023/aftab-alam">Stack Overflow</a></li>
+<li><a href="https://github.com/aftabalam014">GitHub</a></li>
+</ul>

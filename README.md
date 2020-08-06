@@ -17,5 +17,5 @@ The ToDoList is an Android application that use for daily tasks. User can create
 <li><a href="https://github.com/aftabalam014">GitHub</a></li>
 </ul>
 
-![Image](screenshot/1.png) ![Image](screenshot/2.png) ![Image](screenshot/3.png)
-![Image](screenshot/4.png) ![Image](screenshot/5.png)
+![Image](screenshot/1.jpg) ![Image](screenshot/2.jpg) ![Image](screenshot/3.jpg)
+![Image](screenshot/4.jpg) ![Image](screenshot/5.jpg)

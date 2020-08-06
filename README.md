@@ -19,3 +19,7 @@ The ToDoList is an Android application that use for daily tasks. User can create
 
 ![Image](screenshot/1.jpg) ![Image](screenshot/2.jpg) ![Image](screenshot/3.jpg)
 ![Image](screenshot/4.jpg) ![Image](screenshot/5.jpg)
+
+<div align="center">
+    <img src="/screenshots/1.jpg" width="400px"</img> 
+</div>

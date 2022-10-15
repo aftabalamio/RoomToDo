@@ -21,7 +21,5 @@ The ToDoList is an Android application that use for daily tasks. User can create
 
 <h1>About Me</h1>
 <ul>
-<li><a href="https://www.linkedin.com/in/aftabalamio/">LInkedIn</a></li>
-<li><a href="https://stackoverflow.com/users/11369023/aftab-alam">Stack Overflow</a></li>
-<li><a href="https://github.com/aftabalamio">GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/aftabalamio/">LinkedIn</a></li>
 </ul>
